@@ -1,0 +1,69 @@
+﻿  Preprocessing: sa_kernel.cl
+  Ignoring -TARGETOS option - not supported for 64-bit version of this tool 
+  
+  Using build options:  -I "E:\Documentos\Informßtica\Maestria - 02 Segundo Semestre\cc7515 - Computaci¾n en GPU\Proyecto\LempelZivFactorization"
+  Platform name: Intel(R) OpenCL
+  Device name: Intel(R) HD Graphics 620
+  Device version: OpenCL 2.1 NEO 
+  Device vendor: Intel(R) Corporation
+  Device profile: FULL_PROFILE
+  
+  strConstruct info:
+  	Maximum work-group size: 256
+  	Compiler work-group size: (0, 0, 0)
+  	Local memory size: 0
+  	Preferred multiple of work-group size: 16
+  	Minimum amount of private memory: 0
+  	Amount of spill memory used by the kernel: 0
+  
+  histogram info:
+  	Maximum work-group size: 256
+  	Compiler work-group size: (0, 0, 0)
+  	Local memory size: 0
+  	Preferred multiple of work-group size: 32
+  	Minimum amount of private memory: 0
+  	Amount of spill memory used by the kernel: 0
+  
+  scanhistograms info:
+  	Maximum work-group size: 256
+  	Compiler work-group size: (0, 0, 0)
+  	Local memory size: 0
+  	Preferred multiple of work-group size: 32
+  	Minimum amount of private memory: 0
+  	Amount of spill memory used by the kernel: 0
+  
+  reorder info:
+  	Maximum work-group size: 256
+  	Compiler work-group size: (0, 0, 0)
+  	Local memory size: 0
+  	Preferred multiple of work-group size: 32
+  	Minimum amount of private memory: 0
+  	Amount of spill memory used by the kernel: 0
+  
+  compute_rank info:
+  	Maximum work-group size: 256
+  	Compiler work-group size: (0, 0, 0)
+  	Local memory size: 0
+  	Preferred multiple of work-group size: 16
+  	Minimum amount of private memory: 0
+  	Amount of spill memory used by the kernel: 0
+  
+  compute_lcp info:
+  	Maximum work-group size: 256
+  	Compiler work-group size: (0, 0, 0)
+  	Local memory size: 0
+  	Preferred multiple of work-group size: 16
+  	Minimum amount of private memory: 0
+  	Amount of spill memory used by the kernel: 0
+  
+  Build succeeded!
+  
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  GPUOpenCLProjectforWindows.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+E:\Documentos\Informática\Maestria - 02 Segundo Semestre\cc7515 - Computación en GPU\Proyecto\LempelZivFactorization\GPUOpenCLProjectforWindows.cpp(614,29): warning C4996: 'clCreateCommandQueue': was declared deprecated
+E:\Documentos\Informática\Maestria - 02 Segundo Semestre\cc7515 - Computación en GPU\Proyecto\LempelZivFactorization\GPUOpenCLProjectforWindows.cpp(1312,14): warning C4018: '<': signed/unsigned mismatch
+E:\Documentos\Informática\Maestria - 02 Segundo Semestre\cc7515 - Computación en GPU\Proyecto\LempelZivFactorization\GPUOpenCLProjectforWindows.cpp(1353,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LempelZivFactorization.vcxproj -> E:\Documentos\Informática\Maestria - 02 Segundo Semestre\cc7515 - Computación en GPU\Proyecto\LempelZivFactorization\x64\Debug\LempelZivFactorization.exe
+  sa_kernel.cl
+          1 file(s) copied.

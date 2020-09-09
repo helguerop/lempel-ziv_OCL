@@ -1,0 +1,2 @@
+E:\Documentos\Informática\Maestria - 02 Segundo Semestre\cc7515 - Computación en GPU\Proyecto\LempelZivFactorization\x64\Debug\LempelZivFactorization.exe
+E:\Documentos\Informática\Maestria - 02 Segundo Semestre\cc7515 - Computación en GPU\Proyecto\LempelZivFactorization\x64\Debug\LempelZivFactorization.pdb

@@ -1,0 +1,58 @@
+Ignoring -TARGETOS option - not supported for 64-bit version of this tool 
+
+Using build options:  -I "E:\Documentos\Informática\Maestria - 02 Segundo Semestre\cc7515 - Computación en GPU\Proyecto\LempelZivFactorization"
+Platform name: Intel(R) OpenCL
+Device name: Intel(R) HD Graphics 620
+Device version: OpenCL 2.1 NEO 
+Device vendor: Intel(R) Corporation
+Device profile: FULL_PROFILE
+
+strConstruct info:
+	Maximum work-group size: 256
+	Compiler work-group size: (0, 0, 0)
+	Local memory size: 0
+	Preferred multiple of work-group size: 16
+	Minimum amount of private memory: 0
+	Amount of spill memory used by the kernel: 0
+
+histogram info:
+	Maximum work-group size: 256
+	Compiler work-group size: (0, 0, 0)
+	Local memory size: 0
+	Preferred multiple of work-group size: 32
+	Minimum amount of private memory: 0
+	Amount of spill memory used by the kernel: 0
+
+scanhistograms info:
+	Maximum work-group size: 256
+	Compiler work-group size: (0, 0, 0)
+	Local memory size: 0
+	Preferred multiple of work-group size: 32
+	Minimum amount of private memory: 0
+	Amount of spill memory used by the kernel: 0
+
+reorder info:
+	Maximum work-group size: 256
+	Compiler work-group size: (0, 0, 0)
+	Local memory size: 0
+	Preferred multiple of work-group size: 32
+	Minimum amount of private memory: 0
+	Amount of spill memory used by the kernel: 0
+
+compute_rank info:
+	Maximum work-group size: 256
+	Compiler work-group size: (0, 0, 0)
+	Local memory size: 0
+	Preferred multiple of work-group size: 16
+	Minimum amount of private memory: 0
+	Amount of spill memory used by the kernel: 0
+
+compute_lcp info:
+	Maximum work-group size: 256
+	Compiler work-group size: (0, 0, 0)
+	Local memory size: 0
+	Preferred multiple of work-group size: 16
+	Minimum amount of private memory: 0
+	Amount of spill memory used by the kernel: 0
+
+Build succeeded!
